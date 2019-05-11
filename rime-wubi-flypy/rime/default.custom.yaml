@@ -4,18 +4,15 @@ customization:
   rime_version: 1.2.9
 patch:
   schema_list:
-    - schema: flypy # 添加小鹤音形
-    - schema: flypyplus # 添加小鹤音形+
     - schema: wubi86_jidian # 添加五笔86极点版
+    - schema: flypyplus # 添加小鹤音形+
+    - schema: flypy # 添加小鹤音形
   
   menu:
-    page_size: 3
+    page_size: 5
   switcher:
     hotkeys:
-      - Control+grave
       - Control+Shift+grave
-      - F4
-      - Control+0
     abbreviate_options: true
     caption: 〔方案选择〕
     option_list_separator: "｜"

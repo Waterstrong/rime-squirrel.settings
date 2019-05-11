@@ -15,13 +15,13 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ 中文, 西文 ]
+    # states: [ 中文, 西文 ]
   - name: full_shape
-    states: [ 半角, 全角 ]
+    # states: [ 半角, 全角 ]
   - name: extended_charset
-    states: [ 常用, 扩展 ]
+    # states: [ 常用, 扩展 ]
   - name: ascii_punct
-    states: [ 。，, ．， ]
+    # states: [ 。，, ．， ]
 
 engine:
   processors:
@@ -67,7 +67,7 @@ reverse_lookup:
   dictionary: pinyin_simp
   prefix: "z"
   suffix: "'"
-  tips: 【 拼音 】
+  tips: 〔拼音〕
   preedit_format:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/

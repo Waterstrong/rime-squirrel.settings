@@ -21,9 +21,9 @@
 
 #用户词库，下一行后开始添加。切换方案或部署后生效
 # no comment
-教师节	jujp	2
-教室	jnui	2
-她们	tamf	2
+教师节	jujp
+教室	jnui
+她们	tamf
 
 # 2简提示
 # 请手动附加在rime码表的后面

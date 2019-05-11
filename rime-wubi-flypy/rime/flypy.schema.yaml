@@ -156,6 +156,3 @@ recognizer:
 menu:
   page_size: 5 #候选项数
   
-style:
-  horizontal: true #竖排为false
-  

@@ -20,7 +20,7 @@ switches:
   - name: full_shape
    # states: [ 半角, 全角 ]
   - name: simplification
-    states: [ 简, 繁 ]
+    # states: [ 简, 繁 ]
     reset: 0
   - name: ascii_punct
    # states: [ 。，, ．， ]
@@ -153,7 +153,5 @@ recognizer:
 
 menu:
   page_size: 5 #候选项数
-  
-style:
-  horizontal: true #竖排为false
+
   
