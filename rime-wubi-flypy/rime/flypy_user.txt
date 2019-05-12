@@ -24,6 +24,7 @@
 教师节	jujp
 教室	jnui
 她们	tamf
+澳游者	ayve
 
 # 2简提示
 # 请手动附加在rime码表的后面
