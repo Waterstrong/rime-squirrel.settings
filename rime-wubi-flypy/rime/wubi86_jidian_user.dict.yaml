@@ -1,7 +1,7 @@
 ---
 name: wubi86_jidian_user
 version: "2019-01-20"
-last_edit_time: "2019-02-28"
+last_edit_time: "2021-03-03"
 
 sort: original
 # 码表的排序方式
@@ -16,20 +16,20 @@ sort: original
 # 格式：字词	键码	权重 （中间是tab，不是空格）
 # '#'开头的只是注释，所以可以随便分类了
 
-鼠须管 vetp
-澳游者 iift
-随你  bdwq
-玩儿  gfqt
-站会  uhwf
-点赞  hktf  1
-几位  mtwu  1
-知乎  tdtu  1
-状态栏 udsu  1
-布里斯班  djag
-软件匠艺  lwaa  1
-腹有诗书气自华 edyw
-执子之手，与子偕老 rbpf
-知之为知之，不知为不知 tpyt
-踏破铁鞋无觅处，得来全不费工夫 kdqf
+鼠须管	vetp
+澳游者	iift
+随你	bdwq
+玩儿	gfqt
+站会	uhwf
+点赞	hktf	1
+几位	mtwu	1
+知乎	tdtu	1
+状态栏	udsu	1
+布里斯班	djag
+软件匠艺	lwaa	1
+腹有诗书气自华	edyw
+执子之手，与子偕老	rbpf
+知之为知之，不知为不知	tpyt
+踏破铁鞋无觅处，得来全不费工夫	kdqf
 
 
