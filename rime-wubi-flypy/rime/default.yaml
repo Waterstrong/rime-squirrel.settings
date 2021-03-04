@@ -1,8 +1,6 @@
 # Rime default settings
 # encoding: utf-8
 
-config_version: "0.38"
-
 schema_list:
   - schema: flypy
   - schema: flypyplus
